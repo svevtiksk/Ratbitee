@@ -301,11 +301,8 @@ public sealed class MoverController : SharedMoverController
     /// </summary>
     public Vector2 ObtainMaxVel(Vector2 vel, ShuttleComponent shuttle, PhysicsComponent body) // mono
     {
-        var thrust = GetDirectionThrust(vel, shuttle, body);
-        var twr = thrust.Length() / body.Mass;
-        var twrMult = MathF.Pow(twr / shuttle.BaseMaxVelocityTWR, shuttle.MaxVelocityScalingExponent);
-
-        return vel.Normalized() * MathF.Min(shuttle.BaseMaxLinearVelocity * twrMult, MathF.Min(shuttle.UpperMaxVelocity, shuttle.SetMaxVelocity));
+        vel.Normalize(); // Vector2 is a struct so this acts on a copy
+        return vel * shuttle.BaseMaxLinearVelocity;
     }
 
     private void HandleShuttleMovement(float frameTime)
