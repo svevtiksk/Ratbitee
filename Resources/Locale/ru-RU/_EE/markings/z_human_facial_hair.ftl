@@ -1,0 +1,8 @@
+marking-ZetaEMWhiskers = Усы (Э.М. Бакенбарды)
+marking-ZetaSpiderWhiskers = Усы (Паучьи бакенбарды)
+marking-ZetaTwirlable = Усы (Закручиваемые)
+marking-ZetaVoluminous = Борода (Объёмная)
+marking-ZetaWalrus = Усы (Моржовые, Зета)
+marking-ZetaWizardous = Борода (Волшебная)
+marking-ZetaWorkinMan = Борода (Рабочего)
+marking-ZetaOnTheChin = Борода (На подбородке)

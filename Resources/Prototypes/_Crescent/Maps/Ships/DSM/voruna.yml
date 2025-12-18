@@ -1,8 +1,8 @@
 - type: vessel
   id: Voruna
-  name: DSM Voruna
+  name: БМС Воруна
   description: |
-    An imperial ultralight fighter armed with a single heavy plasma blaster.
+    Имперский сверхлёгкий истребитель, вооружённый одним тяжёлым плазменным бластером.
     LOADOUT: 1x 800c "Rimward" Hybrid Plasma Blaster
     MINIMUM CREW: 1x Pilot
   price: 15000
@@ -12,7 +12,7 @@
 
 - type: gameMap
   id: Voruna
-  mapName: 'DSM Voruna'
+  mapName: 'БМС Воруна'
   mapPath: /Maps/_Crescent/Shuttles/DSM/voruna.yml
   minPlayers: 0
   stations:
@@ -24,7 +24,7 @@
             sprite: _Crescent/ShipIcons/ifficons.rsi
             state: fighter
         - type: StationNameSetup
-          mapNameTemplate: 'DSM Voruna {1}'
+          mapNameTemplate: 'БМС Воруна {1}'
           nameGenerator:
             !type:NanotrasenNameGenerator
             prefixCreator: '14'

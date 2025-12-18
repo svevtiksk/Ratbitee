@@ -1,7 +1,7 @@
 - type: vessel
   id: Impel
-  name: DSM Impel
-  description: An Imperial salvaging and mining shuttle with a large cargohold.
+  name: БМС Велит
+  description: Имперский шаттл для спасательных работ и добычи с большим грузовым отсеком.
   price: 30000
   category: Small
   group: None
@@ -9,7 +9,7 @@
 
 - type: gameMap
   id: Impel
-  mapName: 'DSM Imp'
+  mapName: 'БМС Велит'
   mapPath: /Maps/_Crescent/Shuttles/DSM/impel.yml
   minPlayers: 0
   stations:
@@ -21,7 +21,7 @@
             sprite: _Crescent/ShipIcons/ifficons.rsi
             state: industrial
         - type: StationNameSetup
-          mapNameTemplate: 'DSM Impel {1}'
+          mapNameTemplate: 'БМС Велит {1}'
           nameGenerator:
             !type:NanotrasenNameGenerator
             prefixCreator: '14'

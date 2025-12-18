@@ -1,2 +1,2 @@
-ui-options-function-look-up = Присмотреться/Прицелиться
-ui-options-function-toggle-look-up = Удерживать клавишу для прицеливания
+ui-options-function-look-up = Look up/Take aim
+ui-options-function-toggle-look-up = Hold down the key to aim

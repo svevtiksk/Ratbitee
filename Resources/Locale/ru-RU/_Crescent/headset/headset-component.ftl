@@ -1,0 +1,13 @@
+chat-radio-ncwl = NCWL
+chat-radio-empire = Имперское командование
+chat-radio-hunter = Шестая штурмовая группа
+chat-radio-shi = Shinohara
+chat-radio-empireciv = Имперская широкополосная сеть
+chat-radio-syndiesaws = Профсоюз SAW
+chat-radio-syndiegorlex = Gorlex консультинг по безопасности
+chat-radio-syndieipm = Interdyne Pharmaceuticals
+chat-radio-syndiecyberdawn = Cyberdawn Technologies
+chat-radio-pact = Атирийский пакт
+chat-radio-authoritat = 43-я боевая группа
+chat-radio-clarizian = Кларизийская экспедиция
+chat-radio-american = Новоамериканский протекторат

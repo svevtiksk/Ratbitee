@@ -1,0 +1,11 @@
+shuttle-timer-eta = ETA
+shuttle-timer-etd = ETD
+shuttle-timer-shuttle-time = Время шаттла
+shuttle-timer-source-time = Время отправления
+shuttle-timer-dest-time = Время прибытия
+shuttle-timer-shuttle-map = Карта шаттла
+shuttle-timer-source-map = Карта отправления
+shuttle-timer-dest-map = Карта прибытия
+shuttle-timer-docked = Пристыкован
+shuttle-timer-bye = ПОКА!
+shuttle-timer-kill = УБИТЬ

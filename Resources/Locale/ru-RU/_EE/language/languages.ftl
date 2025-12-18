@@ -1,0 +1,14 @@
+language-SiikMaas-name = Сик'маас
+language-SiikMaas-description = Древний религиозный язык таджаранов, ныне наиболее широко распространённый и преподаваемый язык на Адхомае.
+language-NalRasan-name = Нал'расаг
+language-NalRasan-description = Диалект с сильным акцентом на язык тела, созданный охотниками М'сай для скрытности, позже принятый повстанцами для тайной коммуникации во время Великой Войны.
+language-SiikTajr-name = Сик'таджр
+language-SiikTajr-description = Революционный язык, объединяющий Сик'маас и Нал'расаг, разработанный для секретности во время свержения плутократии и активно использовавшийся в Великой Войне.
+language-YaSsa-name = Я'сса
+language-YaSsa-description = Утончённый диалект Сик'маас, некогда говорившийся знатью Нджарир, возрождённый Новым Королевством Адхомая после столетий неиспользования.
+language-Delvahii-name = Делвахии
+language-Delvahii-description = Язык Жан-Хазана, связанный с поклонением Ма'такэ, всё ещё используемый в религиозных обрядах и предпочитаемый фермерами, сопротивляющимися правительственному контролю.
+language-Shadowmind-name = Shadowmind
+language-Shadowmind-description = A language spoken by the shadowlings. Not much is known about it, except that Thralls can understand it.
+language-Qiilour-name = Киилур
+language-Qiilour-description = Родной и основной язык ксельтийцев, Киилур в той или иной степени говорит почти всеми представителями их вида. Это утончённое слияние нескольких древних языков — таких как Теленарии, Воскарн и Старый Ксельтек — каждый из которых ныне утерян истории.

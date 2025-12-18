@@ -64,7 +64,7 @@
 
 - type: font
   id: Lymphatic
-  path: /Fonts/Lymphatic.ttf
+  path: /Fonts/Lymphatic.otf # Костыль крыс
 
 - type: font
   id: Cambria
@@ -120,7 +120,7 @@
 
 - type: font
   id: IMFellEnglish #hullrot high imp
-  path: /Fonts/IMFellEnglish-Regular.ttf
+  path: /Fonts/IMFellEnglish-Regular.otf # Костыль крыс
 
 - type: font
   id: Silkscreen

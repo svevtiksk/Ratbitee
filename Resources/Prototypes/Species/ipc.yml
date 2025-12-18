@@ -12,9 +12,10 @@
   maxAge: 240
   oldAge: 50
   youngAge: 50
-  maleFirstNames: IpcFirst
-  femaleFirstNames: IpcFirst
-  lastNames: IpcLast
+  maleFirstNames: names_ipc_first
+  femaleFirstNames: names_ipc_first
+  maleLastNames: names_ipc_last
+  femaleLastNames: names_ipc_last
   naming: FirstDashLast
   minHeight: 1
   defaultHeight: 1

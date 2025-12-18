@@ -1,7 +1,7 @@
 - type: vessel
   id: Gnosis
-  name: DSM Gnosis
-  description: An Imperial personal shuttle built for the Scribes Guild.
+  name: БМС Августий
+  description: Имперский личный шаттл, построенный для Гильдии Писцов.
   price: 30000
   category: Small
   group: None
@@ -9,7 +9,7 @@
 
 - type: gameMap
   id: Gnosis
-  mapName: 'DSM Gnosis'
+  mapName: 'БМС Августий'
   mapPath: /Maps/_Crescent/Shuttles/DSM/gnosis.yml
   minPlayers: 0
   stations:
@@ -21,7 +21,7 @@
             sprite: _Crescent/ShipIcons/ifficons.rsi
             state: industrial
         - type: StationNameSetup
-          mapNameTemplate: 'DSM Gnosis {1}'
+          mapNameTemplate: 'БМС Августий {1}'
           nameGenerator:
             !type:NanotrasenNameGenerator
             prefixCreator: '14'

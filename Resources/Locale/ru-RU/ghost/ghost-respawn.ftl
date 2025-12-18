@@ -1,22 +1,21 @@
-ghost-respawn-minutes-left = До возможности вернуться в раунд { $time } 
-    { $time ->
-        [one] минута
-        [few] минуты
-       *[other] минут
-    }
-ghost-respawn-seconds-left = До возможности вернуться в раунд { $time } 
-    { $time ->
-        [one] секунда
-        [few] секунды
-       *[other] секунд
-    }
-ghost-respawn-max-players = Функция недоступна, игроков на сервере должно быть меньше { $players }.
-ghost-respawn-window-title = Правила возвращения в раунд
-ghost-respawn-window-rules-footer = Пользуясь это функцией, вы [color=#ff7700]обязуетесь[/color] [color=#ff0000]не переносить[/color] знания своего прошлого персонажа в нового. За нарушение пункта, указанного здесь, следует [color=#ff0000]бан в размере от 3-ех дней[/color].
-ghost-respawn-same-character = Нельзя заходить в раунд за того же персонажа. Поменяйте его в настройках персонажей.
-
-ghost-respawn-log-character-almost-same = Игрок { $player } { $try ->
-    [true] зашёл
-    *[false] попытался зайти
-} в раунд после возвращения в лобби с похожим именем. Прошлое имя: { $oldName }, текущее: { $newName }.
-ghost-respawn-log-return-to-lobby = { $userName } вернулся в лобби.
+ghost-respawn-minutes-left =
+    Please wait { $time } { $time ->
+        [one] minute
+       *[other] minutes
+    } before trying to respawn.
+ghost-respawn-seconds-left =
+    Please wait { $time } { $time ->
+        [one] second
+       *[other] seconds
+    } before trying to respawn.
+ghost-respawn-max-players = Cannot respawn right now. There should be fewer than { $players } players.
+ghost-respawn-error = Something went wrong while trying to respawn. Try again and contact an admin if the issue persists.
+ghost-respawn-window-title = Respawn rules
+ghost-respawn-window-rules-footer = By respawning, you [color=#ff7700]agree[/color] [color=#ff0000]not to use any knowledge gained as your previous character[/color]. Violation of this rule may constitute a server ban. Please read the server rules for more details.
+ghost-respawn-same-character = You cannot respawn as the same character. Please select a different one in character preferences.
+ghost-respawn-log-character-almost-same =
+    Player { $player } { $try ->
+        [true] joined
+       *[false] tried to join
+    } the round after respawning with a similar name. Previous name: { $oldName }, current: { $newName }.
+ghost-respawn-log-return-to-lobby = { $userName } returned to the lobby.
