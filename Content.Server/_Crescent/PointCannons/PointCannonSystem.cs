@@ -354,7 +354,7 @@ public class PointCannonSystem : EntitySystem
         TogglePvsOverride(uid.Comp.CurrentGroup, sessions, true);
     }
 
-    public bool TryFireCannon(
+    private bool TryFireCannon(
         EntityUid uid,
         Vector2 pos,
         TransformComponent? form = null,
