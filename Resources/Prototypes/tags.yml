@@ -857,27 +857,6 @@
 - type: Tag
   id: MailCapsule
 
-<<<<<<< HEAD
-=======
-- type: Tag
-  id: Manual1
-
-- type: Tag
-  id: Manual2
-
-- type: Tag
-  id: Manual3
-
-- type: Tag
-  id: MimeBelt
-
-- type: Tag
-  id: MimeHappyHonk
-
-- type: Tag
-  id: Mineshaft
-
->>>>>>> 4de9713e4a (Update tags.yml)
 # Magazines ordered by slot then caliber
 
 - type: Tag
@@ -1551,30 +1530,3 @@
   id: WriteIgnoreStamps
 
 # ALPHABETICAL
-<<<<<<< HEAD
-=======
-
-- type: Tag
-  id: FelinidEmotes
-
-- type: Tag
-  id: HarpyEmotes
-
-- type: Tag
-  id: VulpEmotes
-
-- type: Tag
-  id: VoidbornEmotes
-
-- type: Tag
-  id: SiliconEmotes
-
-- type: Tag
-  id: MagazineMarkOne
-
-- type: Tag
-  id: UnathiEmotes
-
-- type: Tag
-  id: FitsInVoidsuitKit
->>>>>>> 4de9713e4a (Update tags.yml)

@@ -20,7 +20,7 @@
       PortBalreska:
         gameMapID: PortBalreska
         posX: 750
-        posY: -4500
+        posY: -5000
         IFFColor: Orange
         IFFFaction: NCWL
       Dochenskaya:
@@ -66,7 +66,7 @@
         IFFFaction: TFSC
       Graveyard:
         gameMapID: Graveyard
-        posX: 2100
+        posX: 1300
         posY: 2850
       StrandedShip:
         gameMapID: StrandedShip
@@ -93,30 +93,25 @@
         posX: 2490
         posY: 3037
         HideIFF: true
-      FogwreckedDerelict:
-        gameMapID: FogwreckedDerelict
-        posX: 900
-        posY: -5250
-        HideIFF: true
       Craster:
         gameMapID: Craster
         posX: -5250
         posY: 750
       Taypan1AsteroidBelt:
         gameMapID: Taypan1AsteroidBelt
-        posX: -525
-        posY: -3000
+        posX: -5000
+        posY: 5000
       Taypan2AsteroidBelt:
         gameMapID: Taypan2AsteroidBelt
-        posX: 2025
-        posY: -1350
+        posX: 3700
+        posY: -2000
       Marchbelt:
         gameMapID: Marchbelt
         posX: -3750
         posY: 3150
       Deepbelt:
         gameMapID: Deepbelt
-        posX: -2400
+        posX: -3800
         posY: -300
       FaintSignal:
         gameMapID: FaintSignal
